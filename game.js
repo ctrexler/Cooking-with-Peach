@@ -1435,7 +1435,7 @@ if ( keyboard_check( vk_left )) {
     x = x - 5; 
 }
 
-if ( keyboard_check( vk_up ) && y > 635) { 
+if ( keyboard_check( vk_up ) && y > 675) { 
 	sprite_index = peach_b;
     y = y - 5; 
 }
